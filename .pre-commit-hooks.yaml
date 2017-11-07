@@ -1,0 +1,7 @@
+-   id: frosted
+    name: frosted
+    entry: frosted
+    language: python
+    files: \.py$
+    args: []
+
